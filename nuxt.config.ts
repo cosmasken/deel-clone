@@ -12,14 +12,13 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/google-fonts',
     '@nuxtjs/tailwindcss',
+    '@nuxt/eslint',
   ],
   googleFonts: {
     prefetch: true,
     preconnect: true,
     preload: true,
     families: {
-      Nunito: true,
-      Poppins: true,
       Inter: true,
     },
     display: 'swap',
