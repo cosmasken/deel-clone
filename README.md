@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Deel Clone
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+An example of a landing Page for deel based on this [Design](https://www.figma.com/design/DwMESDfrBmlwm9D9ZMw4UU/deel-HR-Company-Landing-page-(Community)) . Made with Nuxt/TailwindCss.
 
 ## Setup
 
