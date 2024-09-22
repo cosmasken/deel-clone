@@ -9,6 +9,7 @@
     <Businesses />
     <UseCase />
     <Reasons />
+    <Stats />
     <Pricing />
     <GetStarted />
     <Footer />
