@@ -6,7 +6,7 @@
         <div class="flex-1">
           <!-- socials -->
           <div class="flex flex-col space-y-[30px]">
-            <img src="/deel.png" alt="logo" class="h-6 w-[69px]" />
+            <img src="/deel.png" alt="deel logo" class="h-6 w-[69px]">
             <div class="flex space-x-6">
               <a
                 v-for="item in navigation.social"
